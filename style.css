@@ -51,4 +51,43 @@ main{
     border-radius:10px;
 }
 
+.purple-button{
+    background-color: #9C72E4;
+    color:white;
+    border-color: #9C72E4;
+    border-radius: 5px; 
+    padding:5px;
+}
+
+.green-button{
+    background-color: #64C0A9;
+    color:white;
+    border-color: #64C0A9;
+    border-radius: 5px; 
+    padding:5px;
+}
+
+.orange-button{
+    background-color: #F29D33;
+    color:white;
+    border-color: #F29D33;
+    border-radius: 5px; 
+    padding:5px;
+}
+
+.lightgreen-button{
+    background-color: #B0C926;
+    color:white;
+    border-color: #B0C926;
+    border-radius: 5px; 
+    padding:5px;
+}
+
+.pink-button{
+    background-color: #D863A1;
+    color:white;
+    border-color: #D863A1;
+    border-radius: 5px; 
+    padding:5px;
+}
 
