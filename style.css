@@ -9,6 +9,10 @@ header{
 
 h1{
     display:inline;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
 }
 
 img{
@@ -17,6 +21,9 @@ img{
 
 main{
     margin-left: 150px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .principal-buttons{
@@ -26,6 +33,7 @@ main{
     contain: cover;
     padding: 10px;
     border-radius:10px;
+    
 }
 
 .first-button{
