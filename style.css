@@ -100,3 +100,17 @@ main{
     padding:5px;
 }
 
+.check{
+    color:#6DC5B0;
+    border-width: 1px;
+    border-radius: 10px;
+    border-style:solid;
+}
+
+.cross{
+    color:#EA4940;
+    border-width:1px;
+    border-radius:10px;
+    border-style:solid;
+}
+
