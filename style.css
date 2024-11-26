@@ -4,7 +4,30 @@ body{
 
 header{
     background-color: white;
-    margin-bottom: 150px;
+    margin-bottom: 70px;
 }
 
+h1{
+    display:inline;
+}
+
+img{
+    vertical-align: middle;
+}
+
+main{
+    margin-left: 150px;
+}
+
+.first-button{
+    background-color: #47adf1;
+    color:white;
+    border-color: #47adf1; 
+}
+
+.second-button{
+    background-color: white;
+    color:#dbdfe2;
+    border-color: #dbdfe2;
+}
 
