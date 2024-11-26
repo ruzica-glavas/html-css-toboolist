@@ -19,15 +19,36 @@ main{
     margin-left: 150px;
 }
 
+.principal-buttons{
+    margin-bottom: 5px;
+    margin-right: 150px;
+    contain: cover;
+    background-color: white;
+    padding: 10px;
+    border-radius:10px;
+}
+
 .first-button{
     background-color: #47adf1;
     color:white;
-    border-color: #47adf1; 
+    border-color: #47adf1;
+    border-radius: 5px; 
+    padding:5px;
 }
 
 .second-button{
     background-color: white;
     color:#dbdfe2;
     border-color: #dbdfe2;
+    border-radius:5px;
+    padding:5px;
 }
+
+.list{
+    background-color: white;
+    margin-right: 150px;
+    padding:10px;
+    border-radius:10px;
+}
+
 
