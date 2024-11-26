@@ -4,7 +4,7 @@ body{
 
 header{
     background-color: white;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 
 h1{
@@ -21,6 +21,7 @@ img{
 
 main{
     margin-left: 150px;
+    margin-bottom: 150px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
