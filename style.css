@@ -1,5 +1,5 @@
 body{
-    background-color: lightgrey;
+    background-color: #F6F8F9;
 }
 
 header{
@@ -20,10 +20,10 @@ main{
 }
 
 .principal-buttons{
-    margin-bottom: 5px;
-    margin-right: 150px;
-    contain: cover;
     background-color: white;
+    margin-bottom: 5px;
+    margin-right: 1000px;
+    contain: cover;
     padding: 10px;
     border-radius:10px;
 }
@@ -46,7 +46,7 @@ main{
 
 .list{
     background-color: white;
-    margin-right: 150px;
+    margin-right: 1000px;
     padding:10px;
     border-radius:10px;
 }
