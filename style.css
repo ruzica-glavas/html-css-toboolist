@@ -59,6 +59,10 @@ main{
     margin-right: 1000px;
 }
 
+li{
+    list-style: none;
+}
+
 .purple-button{
     background-color: #9C72E4;
     color:white;
