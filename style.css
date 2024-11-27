@@ -102,7 +102,7 @@ main{
 .check{
     color:#6DC5B0;
     border-width: 1px;
-    border-radius: 50%;
+    border-radius: 10px;
     height: 100px;
     border-style:solid;
 }
